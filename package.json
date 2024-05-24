@@ -1,11 +1,8 @@
 {
-  "name": "threejs",
+  "name": "yanka-three",
   "version": "1.0.0",
-  "description": "A test project to study ThreeJS",
+  "description": "A ThreeJS library to easily create small visual projects.",
   "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "threejs",
     "javascript",
