@@ -1,0 +1,24 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "A test project to study ThreeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "javascript",
+    "js",
+    "3d",
+    "webgl"
+  ],
+  "author": "Yannick Tirand",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.164.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
