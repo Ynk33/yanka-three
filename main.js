@@ -24,7 +24,7 @@ const multiPass = new MultiPass({
       shader: new DrawableFragmentShader({
         drawColor: new THREE.Color(0x000000),
         radius: 100,
-        regenDuration: 1,
+        regenDuration: 0.5,
       }),
       shaderInputKey: "baseTexture",
       scale: 0.1,
